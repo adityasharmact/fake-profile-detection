@@ -24,4 +24,4 @@
   
      `$ python <file>.py`
 
-### all output has been saved in html and pdf form in html and pdf folders###
+### all output has been saved in html in html folder###
